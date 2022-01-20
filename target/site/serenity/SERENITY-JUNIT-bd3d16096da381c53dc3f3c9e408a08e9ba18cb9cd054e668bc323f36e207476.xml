@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="HU-003 El usuario desea buscar" skipped="0" tests="1" time="11.31" timestamp="2022-01-19 07:37:31"><testcase name="Buscar producto en la plataforma exitosamente"><error message="session not created: This version of ChromeDriver only supports Chrome version 91&#10;Current browser version is 96.0.4664.110 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'&#10;Driver info: driver.version: SeleniumWebDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x00692DB3+2502067]&#10;&#9;Ordinal0 [0x0062C5B1+2082225]&#10;&#9;Ordinal0 [0x00532498+1057944]&#10;&#9;Ordinal0 [0x005505DA+1181146]&#10;&#9;Ordinal0 [0x0054C43C+1164348]&#10;&#9;Ordinal0 [0x00549C73+1154163]&#10;&#9;Ordinal0 [0x00579A22+1350178]&#10;&#9;Ordinal0 [0x0057967A+1349242]&#10;&#9;Ordinal0 [0x00575BEB+1334251]&#10;&#9;Ordinal0 [0x00552174+1188212]&#10;&#9;Ordinal0 [0x00553009+1191945]&#10;&#9;GetHandleVerifier [0x0080EC5C+1511084]&#10;&#9;GetHandleVerifier [0x008B8522+2205554]&#10;&#9;GetHandleVerifier [0x00713393+480739]&#10;&#9;GetHandleVerifier [0x00712579+477129]&#10;&#9;Ordinal0 [0x00631E5D+2104925]&#10;&#9;Ordinal0 [0x006363F8+2122744]&#10;&#9;Ordinal0 [0x00636537+2123063]&#10;&#9;Ordinal0 [0x0063EE53+2158163]&#10;&#9;BaseThreadInitThunk [0x75E96359+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x771F87A4+228]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x771F8774+180]&#10;&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'&#10;Driver info: driver.version: SeleniumWebDriver" type="org.openqa.selenium.SessionNotCreatedException">session not created: This version of ChromeDriver only supports Chrome version 91
+Current browser version is 96.0.4664.110 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: SeleniumWebDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00692DB3+2502067]
+	Ordinal0 [0x0062C5B1+2082225]
+	Ordinal0 [0x00532498+1057944]
+	Ordinal0 [0x005505DA+1181146]
+	Ordinal0 [0x0054C43C+1164348]
+	Ordinal0 [0x00549C73+1154163]
+	Ordinal0 [0x00579A22+1350178]
+	Ordinal0 [0x0057967A+1349242]
+	Ordinal0 [0x00575BEB+1334251]
+	Ordinal0 [0x00552174+1188212]
+	Ordinal0 [0x00553009+1191945]
+	GetHandleVerifier [0x0080EC5C+1511084]
+	GetHandleVerifier [0x008B8522+2205554]
+	GetHandleVerifier [0x00713393+480739]
+	GetHandleVerifier [0x00712579+477129]
+	Ordinal0 [0x00631E5D+2104925]
+	Ordinal0 [0x006363F8+2122744]
+	Ordinal0 [0x00636537+2123063]
+	Ordinal0 [0x0063EE53+2158163]
+	BaseThreadInitThunk [0x75E96359+25]
+	RtlGetAppContainerNamedObjectPath [0x771F87A4+228]
+	RtlGetAppContainerNamedObjectPath [0x771F8774+180]
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: SeleniumWebDriver</error><system-err>session not created: This version of ChromeDriver only supports Chrome version 91
+Current browser version is 96.0.4664.110 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: SeleniumWebDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00692DB3+2502067]
+	Ordinal0 [0x0062C5B1+2082225]
+	Ordinal0 [0x00532498+1057944]
+	Ordinal0 [0x005505DA+1181146]
+	Ordinal0 [0x0054C43C+1164348]
+	Ordinal0 [0x00549C73+1154163]
+	Ordinal0 [0x00579A22+1350178]
+	Ordinal0 [0x0057967A+1349242]
+	Ordinal0 [0x00575BEB+1334251]
+	Ordinal0 [0x00552174+1188212]
+	Ordinal0 [0x00553009+1191945]
+	GetHandleVerifier [0x0080EC5C+1511084]
+	GetHandleVerifier [0x008B8522+2205554]
+	GetHandleVerifier [0x00713393+480739]
+	GetHandleVerifier [0x00712579+477129]
+	Ordinal0 [0x00631E5D+2104925]
+	Ordinal0 [0x006363F8+2122744]
+	Ordinal0 [0x00636537+2123063]
+	Ordinal0 [0x0063EE53+2158163]
+	BaseThreadInitThunk [0x75E96359+25]
+	RtlGetAppContainerNamedObjectPath [0x771F87A4+228]
+	RtlGetAppContainerNamedObjectPath [0x771F8774+180]
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HIJJRG3L', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: SeleniumWebDriver&#13;
+driver.SeleniumWebDriver.ChromeWebDriver(SeleniumWebDriver.java:17)&#13;
+stepDefinitions.BuscarProductosStepDefinitions.meUbicoEnLaPagina(BuscarProductosStepDefinitions.java:26)&#13;
+✽.me ubico en la pagina http://automationpractice.com/(src/test/resources/features/BuscadorBackground.feature:7)&#13;
+</system-err></testcase></testsuite>

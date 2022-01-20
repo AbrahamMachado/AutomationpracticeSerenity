@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HU-003 El usuario desea buscar","Buscar producto en la plataforma exitosamente","SUCCESS","2021-06-16T15:59:38.033-05:00[America/Bogota]","0.0","96.36"
+"HU-001 El usuario desea buscar","Buscar producto en la plataforma exitosamente","SUCCESS","2021-06-16T16:02:19.927-05:00[America/Bogota]","0.0","209.34"
+"HU-002 El usuario desea buscar","Buscar producto aleatorio en la plataforma exitosamente","SUCCESS","2021-06-16T16:05:52.088-05:00[America/Bogota]","0.0","21.27"
+"HU-004 El usuario desea buscar","Buscar producto fallido en la pagina de Automation Practice","SUCCESS","2021-06-16T16:01:18.846-05:00[America/Bogota]","0.0","20.6"
+"HU-004 El usuario desea buscar","Buscar producto exitoso en la pagina de Automation Practice","SUCCESS","2021-06-16T16:01:40.587-05:00[America/Bogota]","0.0","37.8"
